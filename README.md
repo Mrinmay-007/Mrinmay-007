@@ -40,4 +40,4 @@ Football · Calligraphy · Photography
 
 ---
 
-Fonts: Space Grotesk and IBM Plex Mono, licensed under the SIL Open Font License 1.1. License texts: [`assets/licenses/SpaceGrotesk-OFL.txt`](assets/licenses/SpaceGrotesk-OFL.txt) · [`assets/licenses/IBMPlexMono-OFL.txt`](assets/licenses/IBMPlexMono-OFL.txt). Icon sources and licenses: [`assets/licenses/ICON-SOURCES.md`](assets/licenses/ICON-SOURCES.md).
+<!-- Fonts: Space Grotesk and IBM Plex Mono, licensed under the SIL Open Font License 1.1. License texts: [`assets/licenses/SpaceGrotesk-OFL.txt`](assets/licenses/SpaceGrotesk-OFL.txt) · [`assets/licenses/IBMPlexMono-OFL.txt`](assets/licenses/IBMPlexMono-OFL.txt). Icon sources and licenses: [`assets/licenses/ICON-SOURCES.md`](assets/licenses/ICON-SOURCES.md). -->
